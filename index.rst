@@ -5,7 +5,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**TUTORIAL NAME**
+**Introduction to CyVerse**
 =================
 
 ..
@@ -148,7 +148,12 @@ Application(s) used
     * - CyVerse CentOS 6.8 GUI Base
       - 1.0
       - base image CentOS 6.8 with GNOME GUI
-      - |Atmosphere Image|
+      - |Atmosphere Image 1|
+      -
+* - CyVerse CentOS 6.8 GUI Base
+      - 1.0
+      - base image CentOS 6.8 with GNOME GUI
+      - |Atmosphere Image 1|
       -
 
 
@@ -234,6 +239,11 @@ Post your question to the user forum:
 
    <a href="http://www.drive5.com/muscle/manual/" target="blank">Original App Documentation</a>
 
-.. |Atmosphere Image|  raw:: html
+.. |Atmosphere Image 1|  raw:: html
 
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank">Atmosphere Image</a>
+   <a href="https://atmo.cyverse.org/application/images/1384" target="blank">Atmosphere Image 1</a>
+   
+.. |Atmosphere Image 2|  raw:: html
+
+   <a href="https://atmo.cyverse.org/application/images/1384" target="blank">Atmosphere Image 2</a>
+
