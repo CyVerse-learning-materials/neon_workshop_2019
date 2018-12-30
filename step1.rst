@@ -6,10 +6,12 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Section Name
+Morning Workflow
 -------------
 
 **Description:**
+
+There will be several short presentations about different facets of CyVerse.
 
 ..
 	#### Comment: short text description goes here ####
@@ -28,19 +30,19 @@ Section Name
       -
       -
 
-*Descriptive Steps*
+*Presentations*
 ~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1.
+1. History of CyVerse (iPlantCollaborative)
 
-2.
+2. Data Store
 
-3.
+3. Discovery Environment
 
-
+4. Agave API
 
 ..
 	#### Comment: Suggested style guide:
@@ -52,23 +54,36 @@ Section Name
 	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
 	####
 
-**Output/Results**
+**Platforms**
 
 .. list-table::
     :header-rows: 1
 
-    * - Output
+    * - Topic
       - Description
-      - Example
-    * -
-      -
-      -
+      - Outcome
+    * - Data Store
+      - Data Creation, Transfer, Sharing
+      - CyberDuck, iCommands, and WebDav
+    * - Discovery Environment
+      - Data, Apps, Workflows
+      - Sharing/viewing, non-interactive app creation, workflows and pipeline creation, VICE.   
+    * - Agave
+      - Clients, Workflow Creation
+      - ToGo, Clients, REST API
 
 
 ----
 
-**Description of output and results**
+**Description Outcomes**
 
+* The history of the iPlantCollaborative, which led to CyVerse will serve as an overview of the last 10 years of the project, to help frame the future directions that we are currently pursuing. 
+
+* The goal of the Data Store overview include understanding how to move new data onto CyVerse Data Store, hosting data publically, and working with iRODS iCommands interface.
+
+* The Discovery Environment section includes the creation of non-interactive apps using Docker, for running individual jobs, as well as pipeline workflow executions. The VICE application platform will also be covered. 
+
+* Agave involves high level examples of working with High Throughput Computing and High Performance Computing in a 'bring your own compute' scenario. 
 
 ----
 
