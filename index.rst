@@ -53,13 +53,22 @@ Downloads, access, and services
       - Link/Download
     * - CyVerse account
       - You will need a CyVerse account to complete this exercise
-      - |CyVerse User Portal|
+      - `Register <https://user.cyverse.org/>`_
     * - Atmosphere access
       - You must have access to Atmosphere
-      - |CyVerse User Portal|
-    * - Cyberduck
-      - Standalone software for upload/download to Data Store
-      - |Download Cyberduck|
+      - `Request Access <https://user.cyverse.org/services/available>`_
+    * - CyVerse Data Store allocation increase (Optional)
+      - You must be registered for CyVerse
+      - `Request Increase (form #2) <https://user.cyverse.org/forms>`_
+    * - Jetstream access (Optional)
+      - You must have registered with XSEDE
+      - `Request Access <https://portal.xsede.org/my-xsede#/guest>`_
+    * - Cyberduck (Optional)
+      - Standalone program for uploading/downloading data to Data Store
+      - `Download <https://cyberduck.io/>`_
+    * - Windows 10 Linux Subsystem (Optional)
+      - Install Ubuntu Bash on a Windows OS
+      - `Installation Instructions <https://docs.microsoft.com/en-us/windows/wsl/install-win10/>`_
 
 Platform(s)
 ~~~~~~~~~~~
@@ -150,10 +159,10 @@ Application(s) used
       - base image CentOS 6.8 with GNOME GUI
       - |Atmosphere Image 1|
       -
-* - CyVerse CentOS 6.8 GUI Base
+    * - Ubuntu 18.04 GUI XFCE Base
       - 1.0
-      - base image CentOS 6.8 with GNOME GUI
-      - |Atmosphere Image 1|
+      - base Ubuntu 18.04 with GNOME GUI
+      - |Atmosphere Image 2|
       -
 
 
@@ -225,7 +234,7 @@ Post your question to the user forum:
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/cyverse_neon_workshop_2019" target="blank">Github Repo Link</a>
 
 .. |Download Cyberduck| raw:: html
 
@@ -245,5 +254,5 @@ Post your question to the user forum:
    
 .. |Atmosphere Image 2|  raw:: html
 
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank">Atmosphere Image 2</a>
+   <a href="https://atmo.cyverse.org/application/images/1556" target="blank">Atmosphere Image 2</a>
 
