@@ -11,38 +11,28 @@ Morning Workflow
 
 **Description:**
 
-There will be several short presentations about different facets of CyVerse.
+First things first - `getting enrolled <https://user.cyverse.org/workshops/23/overview/>`_ with CyVerse and setting up laptops.
+
+There will be several short remote presentations about the different facets of CyVerse. These will include hands on material to get you used to working with the tools and services which are available. 
 
 ..
 	#### Comment: short text description goes here ####
 
 ----
 
-**Input Data:**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
-
-*Presentations*
+*Remote Presentations and Presentors*
 ~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. History of CyVerse (iPlantCollaborative)
+1. A History of CyVerse (née The iPlantCollaborative) - Nirav Merchant, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
 
-2. Data Store
+2. Data Store - Tony Edgin, Senior Sofware Engineer Core Software, CyVerse.
 
-3. Discovery Environment
+3. Discovery Environment - Sriram Srinivasam, Lead Software Engineer Core Software CyVerse; Upendra Devisetty Ph.D., Science Team Informatician, CyVerse.
 
-4. Agave API
+4. Agave API - John Fonner Ph.D., Research Associate, Texas Advanced Computing Center
 
 ..
 	#### Comment: Suggested style guide:
@@ -77,7 +67,7 @@ There will be several short presentations about different facets of CyVerse.
 
 **Description Outcomes**
 
-* The history of the iPlantCollaborative, which led to CyVerse will serve as an overview of the last 10 years of the project, to help frame the future directions that we are currently pursuing. 
+* The history of the iPlantCollaborative, which led to CyVerse, as overview of the last 10 years of the project. The present impacts of the project, and future directions we are headed.
 
 * The goal of the Data Store overview include understanding how to move new data onto CyVerse Data Store, hosting data publically, and working with iRODS iCommands interface.
 
