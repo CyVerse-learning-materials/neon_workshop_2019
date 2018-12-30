@@ -26,8 +26,8 @@ Goal
 	:maxdepth: 2
 
 	Tutorial home <self>
-	Step One <step1.rst>
-	Delete this example guide page <example_directives_delete.rst>
+	Morning Workflow <step1.rst>
+	Afternoon Workflow <step2.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step One' with content located in 'step1.rst'
