@@ -13,7 +13,7 @@ Morning Workflow
 
 First things first - `getting enrolled <https://user.cyverse.org/workshops/23/overview/>`_ with CyVerse and setting up laptops.
 
-There will be several short remote presentations about the different facets of CyVerse. These will include hands on material to get you used to working with the tools and services which are available. 
+There will be several short remote presentations about the different facets of CyVerse. Each section will include a question and answer session, and hands on material to get you used to working with the tools and services which are available. 
 
 ..
 	#### Comment: short text description goes here ####
@@ -25,14 +25,17 @@ There will be several short remote presentations about the different facets of C
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
+**08:00 - 08:15** Overview of the day, schedule, logistics.
 
-1. A History of CyVerse (née The iPlantCollaborative) - Nirav Merchant, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
+**08:15 - 09:00** "A History of CyVerse (née The iPlantCollaborative)" - Nirav Merchant, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
 
-2. Data Store - Tony Edgin, Senior Sofware Engineer Core Software, CyVerse.
+**09:00 - 10:00** "CyVerse Data Store" - Tony Edgin, Senior Sofware Engineer Core Software, CyVerse.
 
-3. Discovery Environment - Sriram Srinivasam, Lead Software Engineer Core Software CyVerse; Upendra Devisetty Ph.D., Science Team Informatician, CyVerse.
+**10:00 - 10:15** Break
 
-4. Agave API - John Fonner Ph.D., Research Associate, Texas Advanced Computing Center
+**10:15 - 11:15** "CyVerse Discovery Environment" - Sriram Srinivasam, Lead Software Engineer Core Software CyVerse; Upendra Devisetty Ph.D., Science Team Informatician, CyVerse.
+
+**11:15 - 12:00** "The Agave API" - John Fonner Ph.D., Research Associate, Texas Advanced Computing Center
 
 ..
 	#### Comment: Suggested style guide:
