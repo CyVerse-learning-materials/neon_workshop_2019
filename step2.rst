@@ -6,39 +6,34 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Section Name
+Afternoon Workflow
 -------------
 
 **Description:**
+
+The afternoon session will continue to introduce CyVerse cyberinfrastructure platforms, including Atmosphere and BisQue; as well as the Data Commons - a platform for hosting published scientific data.
+
+We will demonstrate some example use-cases involving CyVerse and other NSF funded resources.
+
+The day will conclude with a discussion of how to collaborate with CyVerse through our Extended Collaborative Support service, Powered By features, and examples of Federation. 
 
 ..
 	#### Comment: short text description goes here ####
 
 ----
 
-**Input Data:**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
-
-*Descriptive Steps*
+**Remote Presentations and Presentors**
 ~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
+13:00 - 14:00 "CyVerse Atmosphere" - Edwin Skidmore, Director, Infrastructure University of Arizona.
 
-1.
+14:00 - 15:00 "BisQue & Data Commons" - Ramona Walls Ph.D., Research Associate Professor, University of Arizona
 
-2.
+15:15 - 16:00 "Example Use Cases of Science with Cyverse - Jason Williams (TBD), Mats Rynge (TBD)
 
-3.
+16:00 - 17:00 "Extended Collaborative Support, Powered by, & Federation"
 
 
 
@@ -52,7 +47,17 @@ Section Name
 	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
 	####
 
-**Output/Results**
+**Expected Outcomes**
+
+Understanding of how to launch Virtual Machines using Atmosphere Browser UI, CLI, and examples of cloud-native-technologies using CyVerse cloud resources. 
+
+Basic operations in BisQue for image analysis and viewing.
+
+Understanding of how to use the Data Commons for published scientific research
+
+Learn about other large data intensive science applications with lessons learned.
+
+Understanding of how to start more comprehensive collaborative effort with CyVerse.
 
 .. list-table::
     :header-rows: 1
@@ -116,4 +121,4 @@ Post your question to the user forum:
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/CyVerse-learning-materials/cyverse_neon_workshop_2019/edit/master/step2.rst" target="blank">Github Repo Link</a>
