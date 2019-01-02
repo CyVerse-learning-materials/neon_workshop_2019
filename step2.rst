@@ -35,8 +35,6 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 
 16:00 - 17:00 "Extended Collaborative Support, Powered by, & Federation"
 
-
-
 ..
 	#### Comment: Suggested style guide:
 	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
@@ -46,6 +44,25 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 	4. Primary menu titles in double quotes: Under "Input" choose...
 	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
 	####
+
+**Platforms**
+
+.. list-table::
+    :header-rows: 1
+
+    * - Topic
+      - Description
+      - Outcome
+    * - Atmosphere
+      - Virtual Machines, Image Creation, Software Installation
+      - Atmo Web client, Atmo CLI, OpenStack
+    * - BisQue
+      - Imagery, Analysis
+      - Sharing/viewing images, Archival   
+    * - Data Commons
+      - Data, Publication
+      - DOI, metadata
+
 
 **Expected Outcomes**
 
