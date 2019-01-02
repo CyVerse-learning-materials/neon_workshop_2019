@@ -148,6 +148,14 @@ Application(s) used
       - Multiple sequence aligner
       -	|DE Application URL|
       - |Original App Documentation|
+    * - Jupyter-Lab
+      - 0.0.3
+      - |VICE Application 1 URL|
+      - |VICE Documentation|
+    * - RStudio Geospatial
+      - 3.5.0
+      - |VICE RStudio URL|
+      - |VICE Documentation|
 
 
 **Atmosphere Image(s):**
@@ -253,6 +261,19 @@ Post your question to the user forum:
 .. |Original App Documentation|  raw:: html
 
    <a href="http://www.drive5.com/muscle/manual/" target="blank">Original App Documentation</a>
+
+.. |VICE Application 1 URL| raw:: html
+
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=34f2c392-9a8a-11e8-9c8e-008cfa5ae621&system-id=de" target="blank">VICE Application URL</a>
+   
+.. |VICE Manual| raw:: html   
+   
+   <a href="https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/index.html" target="blank">VICE Manual</a>
+
+.. |RStudio Geospatial| raw:: html
+
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=a8b22ed8-e2bc-11e8-a839-008cfa5ae621&system-id=de" target="blank">Rstudio Geospatial</a>
+
 
 .. |Atmosphere Image 1|  raw:: html
 
