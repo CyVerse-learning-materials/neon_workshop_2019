@@ -20,7 +20,7 @@ There will be several short remote presentations about the different facets of C
 
 ----
 
-*Remote Presentations and Presentors*
+**Remote Presentations and Presentors**
 ~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
