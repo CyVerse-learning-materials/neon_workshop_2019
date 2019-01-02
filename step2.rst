@@ -27,13 +27,13 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
-**13:00 - 14:00** "CyVerse Atmosphere" - Edwin Skidmore, Director, Infrastructure University of Arizona.
+**13:00 - 14:00** "Atmosphere" - Edwin Skidmore, Director, Infrastructure University of Arizona.
 
 **14:00 - 15:00** "BisQue & Data Commons" - Ramona Walls Ph.D., Research Associate Professor, University of Arizona
 
-**15:15 - 16:00** "Example Use Cases of Science with Cyverse - Jason Williams (TBD), Mats Rynge (TBD)
+**15:15 - 16:00** "Example Use Cases" - Jason Williams (TBD), Mats Rynge (TBD)
 
-**16:00 - 17:00** "Extended Collaborative Support, Powered by, & Federation"
+**16:00 - 17:00** "Extended Collaborative Support, Powered by, & Federation" - Tyson Lee Swetnam, Nirav Merchant
 
 ..
 	#### Comment: Suggested style guide:
