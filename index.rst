@@ -157,7 +157,7 @@ Application(s) used
       - 3.5.0
       - Based on Rocker Geospatial RStudio
       - |VICE RStudio URL|
-      - |VICE Manual|
+      - |Rocker Docker|
 
 
 **Atmosphere Image(s):**
@@ -275,6 +275,10 @@ Post your question to the user forum:
 .. |VICE RStudio URL| raw:: html
 
    <a href="https://de.cyverse.org/de/?type=apps&app-id=a8b22ed8-e2bc-11e8-a839-008cfa5ae621&system-id=de" target="blank">VICE RStudio URL</a>
+   
+   .. |Rocker Docker| raw:: html
+
+   <a href="https://hub.docker.com/r/rocker/geospatial/" target="blank">Rocker Docker</a>
 
 .. |Atmosphere Image 1|  raw:: html
 
