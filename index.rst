@@ -15,6 +15,12 @@
 Goal
 ----
 
+* Introduce NEON scientists and staff to CyVerse resources.
+
+* Hands-on exercises working with CyVerse data store, data science workbench, cloud, and extended resources.
+
+* Open Discussions for how researchers can use CyVerse to work with NEON data.
+
 ..
     #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
     necessarily part of the tutorial - write or link to separate quick
