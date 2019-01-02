@@ -152,12 +152,12 @@ Application(s) used
       - 0.0.3
       - Base Jupyter Lab
       - |VICE Application 1 URL|
-      - |VICE Documentation|
+      - |VICE Manual|
     * - RStudio Geospatial
       - 3.5.0
       - Based on Rocker Geospatial RStudio
       - |VICE RStudio URL|
-      - |VICE Documentation|
+      - |VICE Manual|
 
 
 **Atmosphere Image(s):**
@@ -272,10 +272,9 @@ Post your question to the user forum:
    
    <a href="https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/index.html" target="blank">VICE Manual</a>
 
-.. |RStudio Geospatial| raw:: html
+.. |VICE RStudio URL| raw:: html
 
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=a8b22ed8-e2bc-11e8-a839-008cfa5ae621&system-id=de" target="blank">Rstudio Geospatial</a>
-
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=a8b22ed8-e2bc-11e8-a839-008cfa5ae621&system-id=de" target="blank">VICE RStudio URL</a>
 
 .. |Atmosphere Image 1|  raw:: html
 
