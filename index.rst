@@ -150,10 +150,12 @@ Application(s) used
       - |Original App Documentation|
     * - Jupyter-Lab
       - 0.0.3
+      - Base Jupyter Lab
       - |VICE Application 1 URL|
       - |VICE Documentation|
     * - RStudio Geospatial
       - 3.5.0
+      - Based on Rocker Geospatial RStudio
       - |VICE RStudio URL|
       - |VICE Documentation|
 
