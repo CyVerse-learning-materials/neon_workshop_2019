@@ -276,7 +276,7 @@ Post your question to the user forum:
 
    <a href="https://de.cyverse.org/de/?type=apps&app-id=a8b22ed8-e2bc-11e8-a839-008cfa5ae621&system-id=de" target="blank">VICE RStudio URL</a>
    
-   .. |Rocker Docker| raw:: html
+.. |Rocker Docker| raw:: html
 
    <a href="https://hub.docker.com/r/rocker/geospatial/" target="blank">Rocker Docker</a>
 
