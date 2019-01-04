@@ -68,7 +68,7 @@ There will be several short remote presentations about the different facets of C
 
 ----
 
-**Description Outcomes**
+**Expected Outcomes**
 
 * The history of the iPlantCollaborative, which led to CyVerse, as overview of the last 10 years of the project. The present impacts of the project, and future directions we are headed.
 
