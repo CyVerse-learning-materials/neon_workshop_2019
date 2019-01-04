@@ -66,26 +66,15 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 
 **Expected Outcomes**
 
-Understanding of how to launch Virtual Machines using Atmosphere Browser UI, CLI, and examples of cloud-native-technologies using CyVerse cloud resources. 
+* Understanding of how to launch Virtual Machines using Atmosphere Browser UI, CLI, and examples of cloud-native-technologies using CyVerse cloud resources. 
 
-Basic operations in BisQue for image analysis and viewing.
+* Basic operations in BisQue for image analysis and viewing.
 
-Understanding of how to use the Data Commons for published scientific research
+* Understanding of how to use the Data Commons for published scientific research
 
-Learn about other large data intensive science applications with lessons learned.
+* Learn about other large data intensive science applications with lessons learned.
 
-Understanding of how to start more comprehensive collaborative effort with CyVerse.
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
-
+* Understanding of how to start more comprehensive collaborative effort with CyVerse.
 
 ----
 
