@@ -12,14 +12,16 @@
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
     sharing data ####
 
-Goal
+Goals
 ----
 
-* Introduce NEON scientists and staff to CyVerse resources.
+* Introduce NEON scientists and staff to `CyVerse<https://www.cyverse.org>`_ and its resources.
 
-* Hands-on exercises working with CyVerse data store, data science workbench, cloud, and extended resources.
+* Demonstrate via hands-on exercises the CyVerse `Data Store<https://www.cyverse.org/data-store>`_, Data Science Workbench (`Discovery Environment<https://www.cyverse.org/discovery-environment>`_), Cloud (`Atmosphere`<https://www.cyverse.org/atmosphere>_), `BisQue<https://www.cyverse.org/bisque>`_ image analysis, `Data Commons<https://www.cyverse.org/data-commons>`_, and `Powered By<https://www.cyverse.org/powered-by-cyverse>`_ features. 
 
-* Open Discussions for how researchers can use CyVerse to work with NEON data.
+* Open discussion about NEON staff or academic scientists working with NEON data could begin to utilize CyVerse at scale. 
+	* Identify NEON's computational and data storage|sharing bottlenecks that CyVerse can ameliorate.
+	* Identify requirements and missing components from the current CyVerse infrastructure that NEON requires.
 
 ..
     #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
