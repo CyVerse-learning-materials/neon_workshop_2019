@@ -155,14 +155,19 @@ Application(s) used
       - |Original App Documentation|
     * - Jupyter-Lab
       - 0.0.3
-      - Base Jupyter Lab
+      - Base Jupyter Lab Image
       - |VICE Application 1 URL|
       - |VICE Manual|
     * - RStudio Geospatial
       - 3.5.0
-      - Based on Rocker Geospatial RStudio
+      - Based on Rocker Geospatial RStudio Image
       - |VICE RStudio URL|
       - |Rocker Docker|
+    * - Shiny Apps
+      - 1.5.9
+      - R Shiny with Geospatial dependencies (GDAL, GEOS, etc)
+      - |Geospatial Shiny App|
+      - |Rocker Shiny|
 
 
 **Atmosphere Image(s):**
@@ -284,6 +289,14 @@ Post your question to the user forum:
 .. |Rocker Docker| raw:: html
 
    <a href="https://hub.docker.com/r/rocker/geospatial/" target="blank">Rocker Docker</a>
+
+.. |Geospatial Shiny App| raw:: html
+   
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=203b0bc2-e2a5-11e8-9df7-008cfa5ae621&system-id=de" target="blank">Geospatial Shiny App</a>
+   
+.. |Rocker Shiny| raw:: html
+   
+   <a href="https://hub.docker.com/r/rocker/shiny/" target="blank">Rocker Shiny<a/>
 
 .. |Atmosphere Image 1|  raw:: html
 
