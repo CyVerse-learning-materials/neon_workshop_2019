@@ -20,7 +20,9 @@ Goals
 * Demonstrate via hands-on exercises the CyVerse `Data Store <https://www.cyverse.org/data-store>`_, Data Science Workbench (`Discovery Environment <https://www.cyverse.org/discovery-environment>`_), Cloud (`Atmosphere <https://www.cyverse.org/atmosphere>`_), `BisQue <https://www.cyverse.org/bisque>`_ image analysis, `Data Commons <https://www.cyverse.org/data-commons>`_, and `Powered By <https://www.cyverse.org/powered-by-cyverse>`_ features. 
 
 * Open discussion about how NEON staff or academic scientists working with NEON data could begin to utilize CyVerse at scale.
+
 	Suggested topics:
+	
 	* Identify NEON's computational and data storage|sharing bottlenecks that CyVerse can ameliorate.
 	* Identify missing components from the current CyVerse infrastructure that NEON requires.
 
