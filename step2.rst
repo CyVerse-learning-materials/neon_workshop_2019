@@ -31,7 +31,9 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 
 **14:00 - 15:00** "BisQue & Data Commons" - Ramona Walls Ph.D., Research Associate Professor, University of Arizona
 
-**15:15 - 16:00** "Example Use Cases" - Jason Williams (TBD), Mats Rynge (TBD)
+**15:00 - 15:15** Break
+
+**15:15 - 16:00** "Example Use Cases" - Jason Williams Ph.D., Cold Spring Harbor), Mats Rynge, USC ISI.
 
 **16:00 - 17:00** "Extended Collaborative Support, Powered by, & Federation" - Tyson Lee Swetnam, Nirav Merchant
 
