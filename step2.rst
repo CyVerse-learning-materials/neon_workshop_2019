@@ -33,9 +33,10 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 
 **15:00 - 15:15** Break
 
-**15:15 - 15:45** "Example Use Cases" - Jason Williams Assistant Director, Cold Spring Harbor, 
+**15:15 - 15:45** "Example Use Cases" - Open Science Grid, Mats Rynge, USC Information Sciences Institute.
 
-**15:45 - 16:15** Mats Rynge, USC ISI.
+
+**15:45 - 16:15** Jason Williams Assistant Director, Cold Spring Harbor. 
 
 **16:15 - 17:00** "Extended Collaborative Support, Powered by, & Federation" - Tyson Lee Swetnam, Nirav Merchant
 
