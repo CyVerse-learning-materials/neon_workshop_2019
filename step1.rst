@@ -25,11 +25,11 @@ There will be several short remote presentations about the different facets of C
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
-**08:00 - 08:15** Overview of the day, schedule, logistics.
+**08:30 - 08:45** Overview of the day, schedule, logistics.
 
-**08:15 - 09:00** "A History of CyVerse (née The iPlantCollaborative)" - Nirav Merchant, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
+**08:45 - 09:30** "A History of CyVerse (née The iPlantCollaborative)" - Nirav Merchant, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
 
-**09:00 - 10:00** "CyVerse Data Store" - Tony Edgin, Senior Sofware Engineer Core Software, CyVerse.
+**09:30 - 10:00** "CyVerse Data Store" - Tony Edgin, Senior Sofware Engineer Core Software, CyVerse.
 
 **10:00 - 10:15** Break
 
