@@ -70,13 +70,13 @@ There will be several short remote presentations about the different facets of C
 
 **Expected Outcomes**
 
-* The history of the iPlantCollaborative, which led to CyVerse, as overview of the last 10 years of the project. The present impacts of the project, and future directions we are headed.
+* Learn the history of the iPlantCollaborative, which led to CyVerse, as overview of the last 10 years of the project. Learn about the present impacts of the project, and future directions we are headed.
 
-* The goal of the Data Store overview include understanding how to move new data onto CyVerse Data Store, hosting data publically, and working with iRODS iCommands interface.
+* Learn how to move data in and out of the CyVerse Data Store, host data publically, and introduce the iRODS iCommands interface.
 
-* The Discovery Environment section includes the creation of non-interactive apps using Docker, for running individual jobs, as well as pipeline workflow executions. The VICE application platform will also be covered. 
+* Learn how to utilize the data science workbench (Discovery Environment): how to create non-interactive apps using Docker, for running individual jobs as well as pipeline workflow execution. Learn about the Visual Interactive Computing Environment (VICE) for launching common scientific IDE (RStudio, Shiny, Jupyter Lab, Ubuntu Desktops).  
 
-* Agave involves high level examples of working with High Throughput Computing and High Performance Computing in a 'bring your own compute' scenario. 
+* Introduction to Agave and how it utilizes High Throughput Computing and High Performance Computing for a 'bring your own compute' platform. 
 
 ----
 
