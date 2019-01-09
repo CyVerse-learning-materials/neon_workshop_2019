@@ -33,7 +33,8 @@ There will be several short remote presentations about the different facets of C
 
 **10:00 - 10:15** Break
 
-**10:15 - 11:15** "CyVerse Discovery Environment" - Sriram Srinivasan, Lead Software Engineer Core Software CyVerse; Upendra Devisetty Ph.D., Science Team Informatician, CyVerse.
+**10:15 - 11:15** "`CyVerse Discovery Environment <https://docs.google.com/presentation/d/1Ej60cqdJpSCzX5_H17Qup7oYJj8W9-HoZTqtu5TBZo8/edit?usp=sharing>`_" - Sriram Srinivasan, Lead Software Engineer Core Software CyVerse; 
+"`Apps in Discovery Environment <https://docs.google.com/presentation/d/1GHWBEHvVh32z7Gh1fE9t1ZtQ_ghSssVbRlNpmVyf0rA/edit#slide=id.g42feaaae5e_0_15>`_" Upendra Devisetty Ph.D., Science Team Informatician, CyVerse.
 
 **11:15 - 12:00** "The Agave API" - John Fonner Ph.D., Research Associate, Texas Advanced Computing Center
 
