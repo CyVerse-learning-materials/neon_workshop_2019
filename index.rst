@@ -80,6 +80,9 @@ Downloads, access, and services
     * - Windows 10 Linux Subsystem (Optional)
       - Install Ubuntu Bash on a Windows OS
       - `Installation Instructions <https://docs.microsoft.com/en-us/windows/wsl/install-win10/>`_
+    * - iCommands Installation (Optional)
+      - Install iCommands for Linux, Windows, or Mac OSX
+      - 'Installation Instructions <https://learning.cyverse.org/projects/data_store_guide/en/latest/step2.html#command-line-transfer-with-icommands>`_
 
 Platform(s)
 ~~~~~~~~~~~
