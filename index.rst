@@ -131,7 +131,7 @@ Platform(s)
       - Command-line (API)
       - |Agave API|
       - |Agave Live Docs|
-      - (See Live Docs)
+      - |Agave Quickstart|
 
 Application(s) used
 ~~~~~~~~~~~~~~~~~~~
