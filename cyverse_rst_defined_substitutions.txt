@@ -70,11 +70,11 @@
 
 .. |Agave Live Docs| raw:: html
 
-   <a href="https://agaveapi.co" target="blank">Agave Live Docs</a>
+   <a href="https://tacc-cloud.readthedocs.io/en/latest/" target="blank">Agave Live Docs</a>
 
 .. |Agave Guide| raw:: html
 
-   <a href="http://learning.cyverse.org/en/latest/" target="blank">Agave Guide</a>
+   <a href="https://cyverse.github.io/cyverse-sdk/docs/using-agave/" target="blank">Agave Guide</a>
 
 .. |SciApps| raw:: html
 
