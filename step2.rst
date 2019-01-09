@@ -27,14 +27,13 @@ The day will conclude with a discussion of how to collaborate with CyVerse throu
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
-**13:00 - 14:00** "Atmosphere" - Edwin Skidmore, Director, Infrastructure University of Arizona.
+**13:00 - 14:00** "`Atmosphere <https://emailarizona-my.sharepoint.com/:p:/g/personal/edwins_email_arizona_edu/EUXc0--CfNNMuWre_NRfdkUBmF3C7JN1u03i0QxLEnWH7w?e=qCCG7r>`_" - Edwin Skidmore, Director, Infrastructure University of Arizona.
 
-**14:00 - 15:00** "BisQue & Data Commons" - Ramona Walls Ph.D., Research Associate Professor, University of Arizona
+**14:00 - 15:00** "`BisQue & Data Commons <https://drive.google.com/drive/u/0/folders/1yt_SpriRjjCW_D0o1dVd8Gz9_KovtM3Y>`_" - Ramona Walls Ph.D., Research Associate Professor, University of Arizona
 
 **15:00 - 15:15** Break
 
 **15:15 - 15:45** "Example Use Cases" - Open Science Grid, Mats Rynge, USC Information Sciences Institute.
-
 
 **15:45 - 16:15** Jason Williams Assistant Director, Cold Spring Harbor. 
 
