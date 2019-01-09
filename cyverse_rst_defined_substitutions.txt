@@ -72,7 +72,7 @@
 
    <a href="https://tacc-cloud.readthedocs.io/en/latest/" target="blank">Agave Live Docs</a>
 
-.. |Agave Guide| raw:: html
+.. |Agave Quickstart| raw:: html
 
    <a href="https://cyverse.github.io/cyverse-sdk/docs/using-agave/" target="blank">Agave Guide</a>
 
