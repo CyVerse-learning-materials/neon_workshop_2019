@@ -27,7 +27,7 @@ There will be several short remote presentations about the different facets of C
 
 **08:30 - 08:45** Overview of the day, schedule, logistics - `Tyson Swetnam <https://tyson-swetnam.github.io/>`_
 
-**08:45 - 09:30** "A History of CyVerse (née The iPlantCollaborative)" - `Nirav Merchant <https://datascience.arizona.edu/person/nirav-merchant>`_, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
+**08:45 - 09:30** "`A History of CyVerse (née The iPlantCollaborative) <https://arizona.app.box.com/s/wuuvudf09baaosy8rzq71utqfbk0y28o>`_" - `Nirav Merchant <https://datascience.arizona.edu/person/nirav-merchant>`_, CyVerse Co-PI, Director Data7 Institute University of Arizona. 
 
 **09:30 - 10:00** "`CyVerse Data Store <https://drive.google.com/file/d/1kzJ-IT-uKtgO8R9cTe-7M6efd_MPNhZN/view?usp=sharing>`_" - Tony Edgin, Senior Sofware Engineer Core Software, CyVerse.
 
